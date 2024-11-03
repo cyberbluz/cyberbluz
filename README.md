@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Entra ID Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Entra ID Home Lab](https://github.com/cyberbluz/Azure-SOC)
 
 <h2>🎆</h2>
 
