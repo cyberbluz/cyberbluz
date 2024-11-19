@@ -1,7 +1,9 @@
 <h1>Hi, My name is Joseph! </h1>
 
 > ## I'm a Retired Cop, 9 year Military Vereran, Husband for 30 years, the Father of 2 adult daughters, and I am very excited about the newest adventure in my life:
-> <h1>$${\color{blue}Cybersecuity}$$ <br><br></h1> 
+> <h1>$${\color{blue}Cybersecuity}$$ <br><br></h1>
+
+> ## Security to me is more than just a word though.  At 18 years of age, I was handed a uniform and a rifle and told to guard this post.  Many years later I was handed a badge, a sidearm, and handcuffs and told to Protect & Serve.<br>Now I am choosing once again to take up the responsibility to Guard, Protect, and Serve the Cyber Community with over 30 years of Security Awarness Training and Investigative Experience.
 
 <h2>👨‍💻 My Cybersecurity Projects:</h2>
 
@@ -9,7 +11,7 @@
 ##  - [Open all Ports](https://github.com/cyberbluz/Open_Ports)
 ##  - [Detection & Analysis](https://github.com/cyberbluz/Detection-and-Analysis)
 
-Security to me is more than just a word though.  At 18 years of age, I was handed a uniform & a rifle and told to guard this post.  Many years later I was handed a badge, a sidearm,  and handcuffs and told to Protect & Serve.  Now I am excited once again to take up the responsibility to Guard, Protect, and Serve the Cybercommunity with over 30 years of Security training and Investigative experience.  
+  
 
 
 <h2> 🤳 Connect with me:</h2>
