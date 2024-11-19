@@ -6,7 +6,9 @@
 <h2>👨‍💻 My Cybersecurity Projects:</h2>
 
 ##  - [SOC- Honeynet](https://github.com/cyberbluz/Azure-SOC)
-##  - [Open_Ports](https://github.com/cyberbluz/Open_Ports)
+##  - [Open all Ports](https://github.com/cyberbluz/Open_Ports)
+##  - [Detection & Analysis](https://github.com/cyberbluz/Detection-and-Analysis)
+
 
 <h2> 🤳 Connect with me:</h2>
 
