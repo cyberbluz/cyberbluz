@@ -9,7 +9,7 @@
 ##  - [Open all Ports](https://github.com/cyberbluz/Open_Ports)
 ##  - [Detection & Analysis](https://github.com/cyberbluz/Detection-and-Analysis)
 
-Security to me is more than just a word though.  At 18 years of age, I was handed a uniform & a rifle and told to guard this post.  Many years later I was handed a badge, a sidearm,  and handcuffs and told to Protect & Serve.  Now I am excited once again to take up the responsibility to Guard, Protect, and Serve the Cybercommunity with over 30 years of Security training and experience.  
+Security to me is more than just a word though.  At 18 years of age, I was handed a uniform & a rifle and told to guard this post.  Many years later I was handed a badge, a sidearm,  and handcuffs and told to Protect & Serve.  Now I am excited once again to take up the responsibility to Guard, Protect, and Serve the Cybercommunity with over 30 years of Security training and Investigative experience.  
 
 
 <h2> 🤳 Connect with me:</h2>
