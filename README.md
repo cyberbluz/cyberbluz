@@ -3,11 +3,10 @@
 > ## I'm a Retired Cop, 9 year Military Vereran, Husband for 30 years, the Father of 2 adult daughters, and I am very excited about the newest adventure in my life:
 > <h1>$${\color{blue}Cybersecuity}$$ <br><br></h1> 
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 My Cybersecurity Projects:</h2>
 
-  - [SOC- Honeynet](https://github.com/cyberbluz/Azure-SOC)
-
-<h2>🎆</h2>
+##  - [SOC- Honeynet](https://github.com/cyberbluz/Azure-SOC)
+##  - [Open_Ports](https://github.com/cyberbluz/Open_Ports)
 
 <h2> 🤳 Connect with me:</h2>
 
