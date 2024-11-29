@@ -16,7 +16,4 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="??????? | LinkedIn" width="22px" src="?????" />][linkedin]
-
-[linkedin]: https://linkedin.com/
-
+www.linkedin.com/in/joseph-register-32417587
