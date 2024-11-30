@@ -14,5 +14,5 @@
 ****
 <h2> 🤳 Connect with me:</h2>
 
-##   - [Linkedin]([www.linkedin.com/in/joseph-register-32417587](https://www.linkedin.com/in/joseph-register-32417587/))
+##   - [Linkedin](https://www.linkedin.com/in/joseph-register-32417587)
 
