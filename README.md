@@ -4,16 +4,15 @@
 > <h1>$${\color{blue}Cybersecuity}$$ <br><br></h1>
 
 > ## Security to me is more than just a word.  At 18 years of age, I was handed a uniform and a rifle and told to guard this post.  A few years after college, I was handed a badge, a sidearm, and handcuffs and told to Protect & Serve.<br>Now I am choosing once again to take up the responsibility to Guard, Protect, and Serve the Cyber Community with 20 years of Security Awarness Training and Investigative Experience.
-
+****
 <h2>👨‍💻 My Cybersecurity Projects:</h2>
 
 ##  - [SOC- Honeynet](https://github.com/cyberbluz/Azure-SOC)
 ##  - [Open all Ports](https://github.com/cyberbluz/Open_Ports)
 ##  - [Detection & Analysis](https://github.com/cyberbluz/Detection-and-Analysis)
 ##  - [Eradicate & Recovery](https://github.com/cyberbluz/Eradicate-and-Recovery)
-
+****
 <h2> 🤳 Connect with me:</h2>
 
-![image](https://github.com/user-attachments/assets/f3eece8b-5ea7-4d3c-8f80-3412b94ecef1) 
 ##   - [Linkedin](www.linkedin.com/in/joseph-register-32417587)
 
