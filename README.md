@@ -11,9 +11,9 @@
 ##  - [Open all Ports](https://github.com/cyberbluz/Open_Ports)
 ##  - [Detection & Analysis](https://github.com/cyberbluz/Detection-and-Analysis)
 ##  - [Eradicate & Recovery](https://github.com/cyberbluz/Eradicate-and-Recovery)
-  
-
 
 <h2> 🤳 Connect with me:</h2>
 
-www.linkedin.com/in/joseph-register-32417587
+![image](https://github.com/user-attachments/assets/f3eece8b-5ea7-4d3c-8f80-3412b94ecef1) 
+##   - [Linkedin](www.linkedin.com/in/joseph-register-32417587)
+
